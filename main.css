@@ -463,8 +463,8 @@ strong {
   border-radius: 100%;
 }
 .intro {
-  padding: 0px 100px 0;
-  height: 100vh;
+  padding: 10px 100px 0;
+  height: 70vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
