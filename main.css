@@ -463,7 +463,7 @@ strong {
   border-radius: 100%;
 }
 .intro {
-  padding: 120px 100px;
+  padding: 0px 100px 0;
   height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
